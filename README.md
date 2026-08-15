@@ -3,7 +3,6 @@
 **Quant developer & DevOps engineer at a hedge fund** — I work at the intersection of quantitative finance and systems engineering: trading infrastructure, automation, and keeping things running reliably under pressure.
 
 - 🔭 Writing about low-latency systems & quant on [yuqz.dev](https://yuqz.dev/) — C++, trading systems, DPDK, Linux performance
-- 🌱 Currently learning: TDD
 - 📫 Reach me: [yuqz95@gmail.com](mailto:yuqz95@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yuqi-zheng-1633a1135/)
 - 😄 Pronouns: He/Him
 
