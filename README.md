@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 &nbsp; &nbsp; &nbsp;
 [![Zack's github stats](https://github-stats-extended.vercel.app/api?username=deepforce&count_private=true&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
-&nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepforce)](https://github.com/stats-organization/github-stats-extended)
+&nbsp; &nbsp; &nbsp; [![Top Langs](https://github-stats-extended.vercel.app/api?username=deepforce)](https://github.com/stats-organization/github-stats-extended)
